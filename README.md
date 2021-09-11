@@ -7,7 +7,7 @@
 - Update Data Warehouse data using [sql script.](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
 
 ### Business Request & User Stories
-- Check out the sample business request and filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.
+- Read the sample business request, demand overview & filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.
 
 ### Clean the Data using T-SQL
 - Understand the difference between FACT tables & Dimension tables.
@@ -33,5 +33,5 @@
 - Pivot Table
 
 ### Dashboard
-- [Download the file] and open in Power BI Desktop for interactive viewing.
-- [See a screenshot] of the Dashboard in pdf.
+- [Download the file](https://github.com/AsifRashid01/SalesAnalysis_SQL_PowerBI/blob/main/Sales%20Report.pbix) and open in Power BI Desktop for interactive viewing.
+- [See a screenshot](https://github.com/AsifRashid01/SalesAnalysis_SQL_PowerBI/blob/main/Sales%20Report.pdf) of the Dashboard in pdf.
